@@ -1,29 +1,18 @@
-jquery-coolform
-===============
-
-[![License](https://poser.pugx.org/leaphly/cart-bundle/license.png)](https://packagist.org/packages/leaphly/cart-bundle)
+# [jquery-coolform](http://13ugman.com/coolform.html)
 
 **jQuery plugin for styling form fields**
 
-Author
-======
+## Author
 
-13ugman: [13ugman.com][website]
+[13ugman](http://13ugman.com)
 
-License
-=======
+## License
 
-Licensed under [MIT][mit]
+Licensed under [MIT](http://www.opensource.org/licenses/mit-license.php)
 
-Demo
-====
+## How to use
 
-13ugman.com/coolform.html[demo]
-
-How to use
-==========
-
-Load **jQuery**[jquery] library and include **coolForm** plugin files:
+   1. Load [**jQuery**](http://jquery.com/) library and include **coolForm** plugin files:
 
 ```html
 <link rel="stylesheet" type="text/css" href="assets/css/jquery.coolform.css">
@@ -31,13 +20,11 @@ Load **jQuery**[jquery] library and include **coolForm** plugin files:
 <script type="text/javascript" src="assets/js/jquery.coolform.js"></script>
 ```
 
-Enjoy!
+   2. Enjoy!
 
-Customizing
-===========
+## Customizing
 
-Color
------
+### Color
 
 coolForm gets your website font. Besides this, you can **custom the coolButtons color**. Just select the color that most fits your website and **add the corresponding class** to your forms:
 
@@ -90,13 +77,11 @@ coolForm gets your website font. Besides this, you can **custom the coolButtons 
 </form>
 ```
 
-Wide fields
------------
+### Wide fields
 
 You can make text fields have a 100% width for all resolutions or only for small resolutions:
 
 ```html
-<!-- Default coolButton -->
 <!-- Full width text fields in all devices -->
 <form class="wide-fields">
 ...
@@ -112,8 +97,3 @@ You can make text fields have a 100% width for all resolutions or only for small
 ...
 </form>
 ```
-
-[website]: http://13ugman.com
-[demo]: http://www.13ugman.com/coolform.html
-[mit]: http://www.opensource.org/licenses/mit-license.php
-[jquery]: http://jquery.com/
