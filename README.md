@@ -12,13 +12,15 @@ Licensed under [MIT](http://www.opensource.org/licenses/mit-license.php)
 
 ## How to use
 
-   1. Load [**jQuery**](http://jquery.com/) library and include **coolForm** plugin files:
+Load [**jQuery**](http://jquery.com/) library and include **coolForm** plugin files:
 
-    <pre><code>&lt;link <span class="atn">rel</span>=<span class="atv">"stylesheet"</span> <span class="atn">type</span>=<span class="atv">"text/css"</span> <span class="atn">href</span>=<span class="atv">"assets/css/jquery.coolform.css"</span>&gt;
-&lt;script <span class="atn">type</span>=<span class="atv">"text/javascript"</span> <span class="atn">src</span>=<span class="atv">"assets/js/jquery.min.js"</span>&gt;&lt;/script&gt;
-&lt;script <span class="atn">type</span>=<span class="atv">"text/javascript"</span> <span class="atn">src</span>=<span class="atv">"assets/js/jquery.coolform.js"</span>&gt;&lt;/script&gt;</code></pre>
+```html
+<link rel="stylesheet" type="text/css" href="assets/css/jquery.coolform.css">
+<script type="text/javascript" src="assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.coolform.js"></script>
+```
 
-   2. Enjoy!
+Enjoy!
 
 ## Customizing
 
