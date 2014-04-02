@@ -12,7 +12,7 @@ Licensed under [MIT](http://www.opensource.org/licenses/mit-license.php)
 
 ## How to use
 
-   1. Load [**jQuery**](http://jquery.com/) library and include **coolForm** plugin files:
+Load [**jQuery**](http://jquery.com/) library and include **coolForm** plugin files:
 
 ```html
 <link rel="stylesheet" type="text/css" href="assets/css/jquery.coolform.css">
@@ -20,7 +20,7 @@ Licensed under [MIT](http://www.opensource.org/licenses/mit-license.php)
 <script type="text/javascript" src="assets/js/jquery.coolform.js"></script>
 ```
 
-   2. Enjoy!
+Enjoy!
 
 ## Customizing
 
