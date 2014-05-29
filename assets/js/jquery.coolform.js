@@ -1,7 +1,7 @@
 /*!
  *	jQuery coolForm v1.0
  *	Copyright 2014 13ugman
- *	http://www.owlgraphic.com/owlcarousel/
+ *	http://13ugman.com/coolform.html
  *	Licensed under MIT
  */
 
@@ -26,7 +26,7 @@ function coolRadio(field) {
 function coolFile(field) {
 	if(field.val()){
 		var path = field.val().split('\\');
-		field.next('.attached').html(path[path.length-1]).addClass('successful');
+		field.siblings('.attached').html(path[path.length-1]).addClass('successful');
 	}
 }
 function coolForm() {
