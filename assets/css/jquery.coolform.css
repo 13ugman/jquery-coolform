@@ -173,7 +173,7 @@ form .inline-block-fields li {
 	margin: 0.45em 0.225em;
     pointer-events: none;
 	right: 0;
-    width: 1em;
+    width: 0.75em;
 }
 @-moz-document url-prefix(){
 	.cool-select:after {
@@ -189,9 +189,11 @@ form .inline-block-fields li {
 	background-color: transparent;
     cursor: pointer;
 	padding: 0.25em;
+	position: relative;
 	text-indent: 0.01px;
 	text-overflow: "";
 	width: 100%;
+	z-index: 1;
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	appearance: none;
