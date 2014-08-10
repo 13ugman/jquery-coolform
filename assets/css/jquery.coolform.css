@@ -233,6 +233,7 @@ form .inline-block-fields li {
 /* coolFile */
 
 .cool-file {
+	cursor: pointer;
     display: inline-block;
 }
 .cool-file input {
@@ -240,11 +241,11 @@ form .inline-block-fields li {
     position: absolute;
 }
 .cool-file .attached {
-	cursor: pointer;
 	padding-right: 0.25em;
 }
 .cool-file button {
 	margin-right: 0.25em;
+	pointer-events: none;
 }
 .cool-file button:before {
 	content: "Choose file";
